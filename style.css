@@ -145,11 +145,7 @@ body {
 
 
 
-
-
-
-
-
+  /* birds Clock Start */
 
 
 .clock {
@@ -249,3 +245,5 @@ body {
     position: absolute;
     border-radius: 50%;
 }
+
+  /* birds Clock End */

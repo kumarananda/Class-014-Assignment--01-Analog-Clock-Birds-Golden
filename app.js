@@ -38,5 +38,5 @@ let cur_hour = cur_hour24 > 12 ? cur_hour24 - 12 : cur_hour24 ;
 },10 );
 
 
-
+// analog clock 01 & 02 End
 
